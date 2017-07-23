@@ -1,0 +1,22 @@
+{
+  "name": "track_milage_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkjung/track_mileage_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkjung/track_mileage_test/issues"
+  },
+  "homepage": "https://github.com/clarkjung/track_mileage_test#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
